@@ -1,3 +1,6 @@
+# Muhammad Afif Danial Bin Mohd Zuhairi
+# 2011393
+
 def risk_arbitrage(d, r):
     n = len(d)
     sharpe = [[0] * n for i in range(n)]
